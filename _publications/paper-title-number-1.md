@@ -1,8 +1,7 @@
 ---
 title: "Supervised Learning for Semantic Segmentation of 3D LiDAR Data"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+permalink: /publication/paper-title-number-1.md
 date: 2019-06
 venue: 'IEEE Intelligent Vehicles Symposium (IV)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8814002'
