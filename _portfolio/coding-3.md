@@ -5,6 +5,8 @@ collection: portfolio
 date: 2021-07-01
 ---
 
+[Github Link](https://github.com/LucasCJYSDL/DeepFreight)
+
 Language: Python
 
 The following components are included:
