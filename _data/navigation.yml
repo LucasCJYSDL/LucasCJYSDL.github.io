@@ -11,6 +11,6 @@ main:
         
   - title: "CV"
     url: /cv/
-
+  
   - title: "Coding Projects"
-    url: /year-archive/
+    url: /portfolio/
