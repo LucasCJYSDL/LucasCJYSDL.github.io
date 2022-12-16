@@ -1,23 +1,19 @@
 ---
-title: "Scalable Option Discovery based on Spectral Clustering"
-excerpt: "An option discovery algorithm based on spectral clustering which can be used for continuous control tasks."
+title: "Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs"
+excerpt: "An option discovery algorithm for multi-agent reinforcement learning, including the tabular version and scalable NN-based version."
 collection: portfolio
-date: 2022-01-01
+date: 2022-03-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/Deep-Spectral-Option-Discovery)
+[Github Link](https://github.com/LucasCJYSDL/Scalable_MAOD_based_on_KP)
 
-Codebase for a temporarily-suspended research project of mine.
+Codebase for my papers: Multi-agent Covering Option Discovery through Kronecker Product of Factor Graphs && Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 
 Language: Python
 
 The following parts are included:
-- An evaluation environment built with Pinball.
-- Offline version of our algorithm:
-    - A random walk data-collector
-    - Estimating the spectral features of the continuous state space based on SOTA representation learning techniques
-    - Spectral Clustering based on the estimated spectral features
-    - Building a topological map based on the clustering results
-    - Option discovery based on the offline planning results on the extracted topological graph
-- Online version of our algorithm:
-    - To be continued......
+- Multi-agent maze tasks built with Mujoco as the benchmark for the continuous case.
+- Multi-agent grid-maze tasks as the benchmark for the tabular case.
+- Implementations of the multi-agent option discovery algorithms for tabular and deep MARL proposed in our paper. 
+- Implementations of tablar MARL algorithms as baselines: Independent Q-Learning, Distributed Q-Learning, Centralized Q-Learning.
+- Implementations of Deep MARL algorithms as baselines: MAPPO, MAA2C, MADDPG, QMIX, Weighted-QMIX, MAVEN, COMA, MSAC.
