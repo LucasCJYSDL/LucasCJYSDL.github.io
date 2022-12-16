@@ -7,6 +7,8 @@ date: 2019-12-01
 
 [Github Link](https://github.com/LucasCJYSDL/GAIL_AIRL)
 
+Codebase for my paper: Decision Making for Autonomous Driving via Augmented Adversarial Inverse Reinforcement Learning
+
 Language: Python
 
 The following components are included:

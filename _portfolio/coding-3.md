@@ -7,6 +7,8 @@ date: 2021-07-01
 
 [Github Link](https://github.com/LucasCJYSDL/DeepFreight)
 
+Codebase for my paper: DeepFreight: A Model-free Deep-reinforcement-learning-based Algorithm for Multi-transfer Freight Delivery
+
 Language: Python
 
 The following components are included:
