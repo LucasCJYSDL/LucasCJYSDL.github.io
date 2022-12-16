@@ -2,7 +2,7 @@
 title: "A Simple Tutorial of AI"
 excerpt: "Tutorials on commonly-used basic AI techniques."
 collection: portfolio
-date: 2022-12-01
+date: 2021-12-01
 ---
 
 [Github Link](https://github.com/LucasCJYSDL/A_Simple_Tutorial_of_AI)
