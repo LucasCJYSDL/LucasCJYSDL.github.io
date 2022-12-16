@@ -1,5 +1,5 @@
 ---
-title: "Research experience 1"
+title: "Research experience at Peking University"
 collection: teaching
 type: "Research"
 permalink: /teaching/research-1

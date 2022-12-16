@@ -1,5 +1,5 @@
 ---
-title: "Research experience 3"
+title: "Research experience at Purdue University"
 collection: experience
 type: "Research"
 permalink: /experience/research-3

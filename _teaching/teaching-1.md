@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience at Purdue University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-1
