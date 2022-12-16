@@ -1,8 +1,8 @@
 ---
 title: "Research experience 2"
-collection: experience
+collection: teaching
 type: "Research"
-permalink: /experience/research-2
+permalink: /teaching/research-2
 venue: "School of EECS, University of California, Berkeley"
 date: 2019-09-01
 location: "Berkeley, CA, USA"

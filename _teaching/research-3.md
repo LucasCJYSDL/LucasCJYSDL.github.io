@@ -1,8 +1,8 @@
 ---
 title: "Research experience 1"
-collection: experience
+collection: teaching
 type: "Workshop"
-permalink: /experience/research-1
+permalink: /teaching/research-1
 venue: "School of EECS, Peking University"
 date: 2018-09-01
 location: "Beijing, China"

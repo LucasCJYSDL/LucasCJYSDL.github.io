@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 1"
-collection: experience
+collection: teaching
 type: "Undergraduate course"
-permalink: /experience/teaching-1
+permalink: /teaching/teaching-1
 venue: "School of Industrial Engineering, Purdue University"
 date: 2021-08-01
 location: "West Lafayette, IN, USA"
