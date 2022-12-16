@@ -1,7 +1,8 @@
 ---
 title: "DeepFreight"
-excerpt: "An intelligent freight delivery scheduling system built with the SOTA MARL algorithm and optimization solver."
+excerpt: "An intelligent freight delivery scheduling system built with the SOTA MARL algorithms and an optimization solver."
 collection: portfolio
+date: 2021-07-01
 ---
 
 Language: Python
