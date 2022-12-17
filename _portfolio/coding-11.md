@@ -1,6 +1,6 @@
 ---
 title: "Hierarchical AIRL"
-excerpt: "A Novel Hierarchical Imitation Learning Algorithm based on AIRL."
+excerpt: "A Novel Hierarchical Imitation Learning algorithm based on AIRL."
 collection: portfolio
 date: 2022-10-01
 ---
