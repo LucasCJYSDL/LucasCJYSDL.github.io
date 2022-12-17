@@ -5,7 +5,7 @@ collection: portfolio
 date: 2022-01-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/Deep-Spectral-Option-Discovery)
+[GitHub Link](https://github.com/LucasCJYSDL/Deep-Spectral-Option-Discovery)
 
 Codebase for a temporarily-suspended research project of mine.
 

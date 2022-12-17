@@ -5,7 +5,7 @@ collection: portfolio
 date: 2020-03-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/IL_RL_in_CARLA)
+[GitHub Link](https://github.com/LucasCJYSDL/IL_RL_in_CARLA)
 
 Codebase for my Bachelor thesis: Autonomous Driving Control for Interaction with Pedestrains based on Imitation Learing
 

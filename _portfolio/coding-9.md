@@ -5,7 +5,7 @@ collection: portfolio
 date: 2022-03-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/Scalable_MAOD_based_on_KP)
+[GitHub Link](https://github.com/LucasCJYSDL/Scalable_MAOD_based_on_KP)
 
 Codebase for my papers: Multi-agent Covering Option Discovery through Kronecker Product of Factor Graphs && Scalable Multi-agent Covering Option Discovery based on Kronecker Graphs
 

@@ -5,7 +5,9 @@ collection: portfolio
 date: 2022-01-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/Common-Numeric-Optimization-Algorithms)
+[GitHub Link](https://github.com/LucasCJYSDL/Common-Numeric-Optimization-Algorithms)
+
+Codebase for projects of IE 538 (Nonlinear Optimization) and IE 561 (Convex Optimization) at Purdue University.
 
 Language: MATLAB
 

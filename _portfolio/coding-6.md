@@ -5,7 +5,9 @@ collection: portfolio
 date: 2021-12-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/Two_Phase_Simplex_Method)
+[GitHub Link](https://github.com/LucasCJYSDL/Two_Phase_Simplex_Method)
+
+Codebase for projects of IE 535 (Linear Programming) at Purdue University.
 
 Language: Python
 

@@ -5,7 +5,9 @@ collection: portfolio
 date: 2021-12-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/A_Simple_Tutorial_of_AI)
+[GitHub Link](https://github.com/LucasCJYSDL/A_Simple_Tutorial_of_AI)
+
+Codebase for projects of ECE 570 (Artificial Intelligence) at Purdue University.
 
 Language: Jupyter Notebook
 

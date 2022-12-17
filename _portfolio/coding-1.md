@@ -5,7 +5,7 @@ collection: portfolio
 date: 2019-12-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/GAIL_AIRL)
+[GitHub Link](https://github.com/LucasCJYSDL/GAIL_AIRL)
 
 Codebase for my paper: Decision Making for Autonomous Driving via Augmented Adversarial Inverse Reinforcement Learning
 

@@ -5,7 +5,7 @@ collection: portfolio
 date: 2021-10-01
 ---
 
-[Github Link](https://github.com/LucasCJYSDL/DeepBridge)
+[GitHub Link](https://github.com/LucasCJYSDL/DeepBridge)
 
 Codebase for an unfinished projects due to the restriction of computation resources.
 
