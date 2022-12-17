@@ -1,6 +1,6 @@
 ---
 title: "ODPP"
-excerpt: "A Novel Unsupervised Option Discovery algorithm based on Determinant Point Process."
+excerpt: "A novel Unsupervised Option Discovery algorithm based on Determinant Point Process."
 collection: portfolio
 date: 2022-05-01
 ---
