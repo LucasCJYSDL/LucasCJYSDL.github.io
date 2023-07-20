@@ -8,8 +8,8 @@ date: 2019-09-01
 location: "Berkeley, CA, USA"
 ---
 
-I have worked as a research assistant on self-driving beharior learning from 2019/09 to 2020/01, under the supervision of Prof. Ching-Yao Chan. 
+I have worked as a research assistant on driving behavior learning of autonomous vehicles from 2019/09 to 2020/01, under the supervision of Prof. Ching-Yao Chan. 
 
 Here are the research projects completed during this time:
-- Developing a lane-changing simulator for autonomous vehicles based on SUMO.
-- Diverse lane-changing behavior learning for autonomous vehicles through Imitation Learning Algorithms like GAIL, AIRL, Info-GAIL, and Meta-AIRL (new proposed algorithm).
+- Developed a lane‑changing simulator of autonomous vehicles based on SUMO for efficient Reinforcement Learning training and evaluation.
+- Proposed a novel Meta Learning algorithm for diverse lane‑changing behavior learning of autonomous vehicles, surpassing SOTA baselines.
