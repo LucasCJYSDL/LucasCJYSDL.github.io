@@ -1,7 +1,6 @@
 ---
 title: "Scalable Multi-agent Option Discovery based on Kronecker Graphs"
 collection: talks
-permalink: /talks/pre_4.md
 type: "Poster Presentation"
 venue: "the 36th Conference on Neural Information Processing Systems (NeurIPS)"
 date: 2022-11-28

@@ -1,7 +1,6 @@
 ---
 title: "DeepFreight: A Model-free Deepreinforcement- learning-based Algorithm for Multi-transfer Freight Delivery"
 collection: talks
-permalink: /talks/pre_1.md
 type: "Poster Presentation"
 venue: "the 31st International Conference on Automated Planning and Scheduling (ICAPS)"
 date: 2021-08-02

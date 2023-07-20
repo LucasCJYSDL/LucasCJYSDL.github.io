@@ -1,7 +1,6 @@
 ---
 title: "Multi-agent Deep Covering Option Discovery"
 collection: talks
-permalink: /talks/pre_2.md
 type: "Poster Presentation"
 venue: "ICML Reinforcement Learning for Real Life Workshop"
 date: 2021-07-23
