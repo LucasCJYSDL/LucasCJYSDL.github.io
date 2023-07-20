@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Experience"
+    url: /teaching/    
+        
+  - title: "CV"
+    url: /cv/
+  
+  - title: "Personal Coding Projects"
+    url: /portfolio/
+
