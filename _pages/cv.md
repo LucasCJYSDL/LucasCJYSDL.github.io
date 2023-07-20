@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Energy Engineering, Peking University, 2020
+* B.E. in College of Engineering, Peking University, 2020
 * Ph.D. in Industrial Engineering Operation Research, Purdue University, 2024 (expected)
 
 Experience
@@ -57,3 +57,17 @@ Honors
 * Merit Student Award, Peking University, Dec 2018
 * Peking University Third Prize Scholarship, Peking University, Dec 2019
 * Merit Student Award, Peking University, Dec 2019
+* NeurIPS Scholar Award, NeurIPS, Oct 2022
+
+Reviewer/Program Committee
+======
+* ICML 2022
+* NeurIPS 2023
+* Information Sciences
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Artificial Intelligence
+* IEEE Transactions on Games
+* IEEE Transactions on Intelligent Transportation Systems
+* IEEE Transactions on Cybernetics
+* IEEE Transactions on Cognitive and Developmental Systems
+* IEEE International Conference on Data Science and Advance Analytics 2023
