@@ -1,6 +1,7 @@
 ---
 title: "Multi-agent Covering Option Discovery through Kronecker Product of Factor Graphs"
 collection: talks
+permalink: /talks/pre_3
 type: "Poster Presentation"
 venue: "the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS)"
 date: 2022-05-09

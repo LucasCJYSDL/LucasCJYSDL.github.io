@@ -1,6 +1,7 @@
 ---
 title: "Option-Aware Adversarial Inverse Reinforcement Learning for Robotic Control"
 collection: talks
+permalink: /talks/pre_5
 type: "Poster Presentation"
 venue: "IEEE International Conference on Robotics and Automation"
 date: 2023-05-29
