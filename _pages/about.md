@@ -12,6 +12,6 @@ I received a B.E. degree from Peking University, Beijing, China, in 2020. I am c
 
 I expect to graduate before August 2024 and am actively looking for internships. I'm enthusiastic about Data-centric/driven AI applications/research, especially for converting cutting-edge AI techniques to real-life solutions.
 
-My long-term research objective is centered around augmenting the capabilities of reinforcement learning, with a keen focus on analyzing/proposing data-centric and general-purpose reinforcement learning algorithms. The grand vision is to deploy reinforcement learning in real-world, challenging decision-making and policy-learning tasks, with an aim to achieve superhuman performance.
+My long-term research objective is centered around extending the capabilities of reinforcement learning, with a keen focus on analyzing/proposing data-centric and general-purpose reinforcement learning algorithms. The grand vision is to deploy reinforcement learning in real-world, challenging decision-making and policy-learning tasks, with an aim to achieve superhuman performance.
 
 Most importantly, I love soccer and sitcoms......
