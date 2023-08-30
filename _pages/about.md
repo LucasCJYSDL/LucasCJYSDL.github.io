@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I received a B.E. degree from Peking University, Beijing, China, in 2020. I am currently a Ph.D. candidate and Research Assistant in the School of Industrial Engineering (Operation Research) at Purdue University, West Lafayette, USA. My current research focuses on reinforcement/imitation learning algorithm design related to temporal abstraction, and reinforcement/imitation learning applications (e.g., robotics, healthcare, intelligent transportation systems, and autonomous driving).
+I received a B.E. degree from Peking University, Beijing, China, in 2020. I am currently a Ph.D. candidate and Research Assistant in the School of Industrial Engineering (Operation Research) at Purdue University, West Lafayette, USA. My research concentrates on reinforcement learning and robotic learning algorithm design, with a current focus on unsupervised reinforcement learning and hierarchical imitation learning. I have also worked on decision-making applications with reinforcement/imitation learning, including robotics, healthcare, intelligent transportation systems, and autonomous driving.
 
-My long-term research objective is centered around extending the capabilities of reinforcement learning, with a keen focus on analyzing/proposing data-centric and general-purpose reinforcement learning algorithms: how can RL agents evolve with data (efficiently)? The grand vision is to broadly deploy reinforcement learning in real-world decision-making and policy-learning tasks, with an aim to achieve superhuman performance.
+My long-term research objective is centered around extending the capabilities of reinforcement learning, with a keen focus on analyzing/proposing data-centric and general-purpose reinforcement learning algorithms: how can RL agents evolve with data (efficiently)? The grand vision is to broadly deploy reinforcement learning in real-world decision-making and policy-learning tasks (especially for robotics), with an aim to achieve superhuman performance.
 
-I expect to graduate before August 2024 and am actively looking for internships. I'm enthusiastic about Data-centric/driven AI applications/theories, especially for converting cutting-edge AI techniques to real-life solutions.
+**I expect to graduate in May 2024 and am actively looking for Post Doc positions.** 
 
 Most importantly, I love soccer and sitcoms......

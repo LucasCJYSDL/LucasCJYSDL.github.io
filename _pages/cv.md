@@ -11,10 +11,14 @@ redirect_from:
 
 [Download my resume here](http://LucasCJYSDL.github.io/files/Resume.pdf)
 
+[Download my research statement here](http://LucasCJYSDL.github.io/files/Research_Statement.pdf)
+
+[Download an introduction PPT for my research work here](http://LucasCJYSDL.github.io/files/ABOUT_ME.pdf)
+
 Education
 ======
 * B.E. in College of Engineering, Peking University, 2020
-* Ph.D. in Industrial Engineering Operation Research, Purdue University, 2024 (expected)
+* Ph.D. in Industrial Engineering Operation Research, Purdue University, May 2024 (expected)
 
 Experience
 ======
