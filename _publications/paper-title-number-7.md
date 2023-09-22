@@ -1,9 +1,9 @@
 ---
 title: "ODPP: A Unified Algorithm Framework for Unsupervised Option Discovery based on Determinantal Point Process"
-date: 2022-12-01
-venue: 'arXiv preprint arXiv:2212.00211'
-paperurl: 'https://arxiv.org/abs/2212.00211'
+date: 2023-12-01
+venue: 'Proceedings of the 37th Conference on Neural Information Processing Systems (NeurIPS)'
+paperurl: 'https://openreview.net/pdf?id=Y8p3ThNDmK'
 ---
 **Jiayu Chen**, Vaneet Aggarwal, and Tian Lan 
 
-[Download paper here](https://arxiv.org/abs/2212.00211)
+[Download paper here](https://openreview.net/pdf?id=Y8p3ThNDmK)

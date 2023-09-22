@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my resume here](http://LucasCJYSDL.github.io/files/Resume.pdf)
-
-[Download my research statement here](http://LucasCJYSDL.github.io/files/Research_Statement.pdf)
-
-[Download an introduction PPT for my research work here](http://LucasCJYSDL.github.io/files/ABOUT_ME.pdf)
-
 Education
 ======
 * B.E. in College of Engineering, Peking University, 2020
