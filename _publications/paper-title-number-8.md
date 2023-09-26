@@ -1,9 +1,9 @@
 ---
 title: "Hierarchical Adversarial Inverse Reinforcement Learning"
-date: 2022-10-05
-venue: 'arXiv preprint arXiv:2210.01969'
-paperurl: 'https://arxiv.org/abs/2210.01969'
+date: 2023-09-14
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
+paperurl: 'https://ieeexplore.ieee.org/document/10250822'
 ---
-**Jiayu Chen**, Vaneet Aggarwal, and Tian Lan 
+**Jiayu Chen**, Tian Lan, and Vaneet Aggarwal 
 
-[Download paper here](https://arxiv.org/abs/2210.01969)
+[Download paper here](https://ieeexplore.ieee.org/document/10250822)

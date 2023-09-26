@@ -1,5 +1,5 @@
 ---
-title: "Two-tiered Online Optimization of Region-wide Datacenter Resource Allocation via Deep Reinforcement Learning"
+title: "Learning-based Two-tiered Online Optimization of Region-wide Datacenter Resource Allocation"
 date: 2023-06-29
 venue: 'arXiv preprint arXiv:2306.17054'
 paperurl: 'https://arxiv.org/pdf/2306.17054.pdf'
