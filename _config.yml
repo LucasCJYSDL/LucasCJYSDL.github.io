@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiayu Chen's Personal Site"
 title_separator          : "-"
 name                     : &name "Jiayu Chen"
-description              : &description "Ph.D. candidate of Purdue University"
+description              : &description "PostDoc at CMU"
 url                      : https://LucasCJYSDL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LucasCJYSDL/LucasCJYSDL.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiayu Chen (陈佳玉)"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate, Research Assistant at Purdue University"
-  location         : "West Lafayette, IN, USA, 47906"
+  bio              : "PostDoc at CMU"
+  location         : "Pittsburgh, PA 15213"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k0KJm7kAAAAJ&hl=en"

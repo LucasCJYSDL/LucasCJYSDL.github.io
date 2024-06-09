@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in College of Engineering, Peking University, 2020
-* Ph.D. in Industrial Engineering Operation Research, Purdue University, May 2024 (expected)
+* Ph.D. in Industrial Engineering Operation Research, Purdue University, May 2024
 
 Experience
 ======
