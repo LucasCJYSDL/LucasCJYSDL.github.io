@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍🔬 I am currently a Postdoctoral Fellow at the School of Computer Science, Carnegie Mellon University. I earned my B.E. degree from Peking University in Beijing, China, in 2020, followed by a Ph.D. in Industrial Engineering with a specialization in Operations Research from Purdue University, West Lafayette, USA, in 2024.  Here are some files that may interest you: [resume](http://LucasCJYSDL.github.io/files/CV.pdf), [research statement on RL](http://LucasCJYSDL.github.io/files/Research_Statement_RL.pdf), [research statement on AI Agent System](http://LucasCJYSDL.github.io/files/Research_Statement_Agent.pdf), ...
+👨🏻‍🔬 I am currently a Postdoctoral Fellow at the School of Computer Science, Carnegie Mellon University. I earned my B.E. degree from Peking University in Beijing, China, in 2020, followed by a Ph.D. in Industrial Engineering with a specialization in Operations Research from Purdue University, West Lafayette, USA, in 2024.  Here is my [resume](http://LucasCJYSDL.github.io/files/CV.pdf).
 
 🤖 My current research concentrates on decision-making techniques, such as reinforcement learning and stochastic optimization. My long-term research objective is to develop theoretically sound, robust algorithms for real-life control tasks and data-driven decision-making, under a unified framework of reinforcement learning, optimal control, and stochastic optimization. Importantly, these algorithms will scale effectively, improving as data volume and computing power increase.
 
